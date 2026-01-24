@@ -9,7 +9,7 @@ description: My Youtube channel
 
 ## About
 
-My YouTube channel is where I upload new videos. I present monthly the news of the developer ecosystem in the Dev News.
+My YouTube channel is where I upload new videos. I post weekly news videos of all the things happening in the developer ecosystem. Furthermore I post short videos explaining new and old technologies, programming languages and things from the tech world. 
 
 ## What this project means to me
 
