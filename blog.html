@@ -1,5 +1,6 @@
 ---
 layout: default
+regenerate: true
 ---
 <div>
   <p>In this blog I'm writing about my continuous story as a developer and many things related to Microsoft.</p>
@@ -8,17 +9,18 @@ layout: default
 <p style="font-weight: bold;">Sort by category</p>
 <ul>
   <li><a href="/category/general">General</a></li>
+  <li><a href="/category/devnews">Developer news sources</a></li>
   <li><a href="/category/php">PHP</a></li>
   <li><a href="/category/book_review">Book review</a></li>
-  <li><a href="/category/System32">System32 Discovery Series</a></li>
-  <li><a href="/category/LWW">Last week at Windows</a></li>
+  <li><a href="/category/System32">System32 Discovery Series (Discontinued)</a></li>
+  <li><a href="/category/LWW">Last week at Windows (Discontinued)</a></li>
 </ul>
 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{% if post.layout == "devnews" %}Developer News {{post.episode}} Sources Document{%else%}{{ post.title }}{%endif%}</a></h1>
       
       <div class="entry">
         {% if post.description %}<p>{{ post.description }}</p>{% else %}{{ post.excerpt }}{% endif %}
