@@ -317,7 +317,7 @@ footer {
   }
 }
 
-body:has(footer a:hover) #dimmer {
+/*body:has(footer a:hover) #dimmer {
   display: block;
   background-color:rgba(29, 29, 29, 0.389);
   animation: start 0s 0;
@@ -361,7 +361,7 @@ body:has(header:hover) #dimmer {
   100% {
     background-color: rgba(29, 29, 29, 0);
   }
-}
+}*/
   article {
     position: relative;
     padding: 0% 2%;

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    {% if page.url == "/" or page.url contains "/projects/" or page.url == "/about/" %}
+    {% if page.url == "/" or page.url contains "/projects/" or page.url contains "/about/" %}
     <title>Website of Noraa Junker-Wildi</title>
     {% else %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -24,14 +24,14 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          {% unless page.url == "/" or page.url contains "/projects/" or page.url == "/about/" %}
+          {% unless page.url == "/" or page.url contains "/projects/" or page.url contains "/about/" %}
           <a href="{{ site.baseurl }}/blog" class="site-avatar"><img id="logo" alt="Round Checkbox logo" src="/images/round checkbox logo.png" /></a>
           {% else %}
           <a href="{{ site.baseurl }}/" class="site-avatar"><img id="logo" alt="Drawn picture of myself" src="/images/profile.jpg" /></a>
           {% endunless %}
 
           <div class="site-info">
-            {% if page.url == "/" or page.url contains "/projects/" or page.url == "/about/" %}
+            {% if page.url == "/" or page.url contains "/projects/" or page.url contains "/about/" %}
             <h1 class="site-name"><a href="{{ site.baseurl }}/">Noraa Junker</a></h1>
             <p class="site-description">Website of Noraa Junker-Wildi</p>
             {% else %}
@@ -41,13 +41,13 @@
           </div>
 
           <nav>
-            {% if page.url == "/" or page.url contains "/projects/" or page.url == "/about/" %}
+            {% if page.url == "/" or page.url contains "/projects/" or page.url contains "/about/" %}
             <a href="{{ site.baseurl }}/blog">Blog</a>
             {% else %}
             <a href="{{ site.baseurl }}/">Home</a>
             {% endif %}
             <a href="{{ site.baseurl }}/about">About me</a>
-            <a href="{{ site.baseurl }}/projects">My projects</a>
+            <a href="{{ site.baseurl }}/about/projects">My projects</a>
           </nav>
         </header>
       </div>

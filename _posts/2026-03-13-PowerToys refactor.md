@@ -14,8 +14,10 @@ The PowerToys runner is the main part of PowerToys. It is the `powertoys.exe` ex
 * Starting the different PowerToys modules based on the user settings and handling their processes
 * Piping different commands from the settings to the different modules
 
-<!-- Tray icon of PowerToys -->
-
+<figure>
+    <img src="/images/runner-tray.png" alt="The PowerToys tray icon" />
+    <figcaption>The PowerToys tray icon</figcaption>
+</figure>
 Currently most of these functions are handled by the different module interfaces. Each PowerToys module has a module interface which is just one C++ project that exports a DLL
 
 An example of a PowerToys module interface (shortened):

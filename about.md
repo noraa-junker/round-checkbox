@@ -4,6 +4,19 @@ title: About me
 permalink: /about/
 ---
 
+**Subpages**
+
+- [My social media profiles](/about/socials)
+- [My (previous) jobs and work experience](/about/jobs)
+- [My (previous) schools and education history](/about/schools)
+- [My voluntary work](/about/voluntarywork)
+- [My projects](/about/projects)
+- [The programming languages I can program with](/about/languages)
+/*
+- My certificates and awards
+- Articles mentioning me
+*/
+
 ### General information
 
 Hello I'm Noraa.
@@ -21,26 +34,3 @@ In this blog I'm writing about things I want to do and most of the time that has
 ### Contact me
 
 If you want to contact me, shoot me an email at <a href="mailto:noraa.junker@outlook.com">noraa.junker@outlook.com</a>, DM me on X (Twitter) <a href="https://x.com/theredcuber">@theredcuber</a>.
-
-### Programming languages I can program with
-* C#
-* PHP
-* Java
-* Javascript
-* Python
-
-### Markup languages I know
-
-* HTML
-* XAML
-* CSS
-
-Programming Languages I could program in the past:
-* Minecraft plugins with Java
-* Minecraft commands
-
-### Repositories I triage
-
-* [Microsoft PowerToys](https://github.com/microsoft/powertoys)
-* [Website of the Microsoft open source programs office](https://github.com/microsoft/opensource.microsoft.com)
-* [Microsoft's OSPO-Courses](https://github.com/microsoft/OSPO-Courses)

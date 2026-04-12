@@ -45,4 +45,10 @@ exclude:
 collections:
   projects:
     output: true
-    permalink: /:collection/:name
+    permalink: /about/:collection/:name
+  socials:
+  work:
+  schools:
+  mentionings:
+  langs:
+  certs:
