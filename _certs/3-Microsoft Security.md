@@ -1,6 +1,7 @@
 ---
 title: Microsoft Security Advisors
 time: Unspecified time
+image: Microsoft.png
 description: |
     As part of the Microsoft Security advisors I was able to gain various titles:
     <ul>
