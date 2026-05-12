@@ -12,8 +12,8 @@ permalink: /about/
 - [My voluntary work](/about/voluntarywork)
 - [My projects](/about/projects)
 - [The programming languages I can program with](/about/languages)
+- [My certificates and awards](/about/certs)
 {%comment%}
-- My certificates and awards
 - Articles mentioning me
 {%endcomment%}
 
