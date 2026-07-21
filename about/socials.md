@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My social media
-permalink: /about/socials/
 regenerate: true
 ---
 

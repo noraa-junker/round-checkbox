@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My voluntary work
-permalink: /about/voluntarywork/
 ---
 
 In Switzerland where I come from it is very common to do voluntary work for the community in clubs and non-profit organizations. I personally have two very big commitments:

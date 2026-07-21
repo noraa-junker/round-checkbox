@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My (previous) jobs and work experience
-permalink: /about/jobs/
 regenerate: true
 ---
 

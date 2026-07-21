@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My awards and certifications
-permalink: /about/certs/
 regenerate: true
 ---
 

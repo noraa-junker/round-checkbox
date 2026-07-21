@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The programming languages I can program with
-permalink: /about/languages/
 regenerate: true
 ---
 

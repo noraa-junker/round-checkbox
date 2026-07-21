@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My schools and education history
-permalink: /about/schools/
 regenerate: true
 ---
 
