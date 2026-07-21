@@ -12,9 +12,7 @@ title: About me
 - [My projects](/about/projects)
 - [The programming languages I can program with](/about/languages)
 - [My certificates and awards](/about/certs)
-{%comment%}
-- Articles mentioning me
-{%endcomment%}
+- [Articles mentioning me](/about/mentionings)
 
 ### General information
 
