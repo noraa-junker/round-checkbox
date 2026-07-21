@@ -14,5 +14,4 @@ Here is a list of all my social media channels and what purpose they serve for m
 <p>{{ social.description }}</p>
 <p><a href="{{social.link}}">{{social.link | replace: "https://" ""}}</a></p>
 
-
 {% endfor %}
