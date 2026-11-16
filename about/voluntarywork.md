@@ -3,6 +3,8 @@ layout: page
 title: My voluntary work
 ---
 
+<a href="/about/">&lt;&lt;&lt; Back to about</a>
+
 In Switzerland where I come from it is very common to do voluntary work for the community in clubs and non-profit organizations. I personally have two very big commitments:
 
 <h3>Jungwacht Blauring Schaffhausen</h3>
