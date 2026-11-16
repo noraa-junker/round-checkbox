@@ -20,3 +20,9 @@ In 2024 I was part of a group that wanted to reboot the youth parliament in the 
 This organization aims to make politics more young and interesting for the youth aswell as give them opportunities to express themselves politically.   
 
 More information: <a href="https://jupa-sh.ch">jupa-sh.ch</a>
+
+<h3>SOSETH</h3>
+
+SOSETH is a student organization of ETH Zurich. I joined the board in 2026 taking on the PR ressort.
+
+More information: <a href="https://soseth.ethz.ch">soseth.ethz.ch</a>
