@@ -25,4 +25,4 @@ More information: <a href="https://jupa-sh.ch">jupa-sh.ch</a>
 
 SOSETH is a student organization of ETH Zurich. I joined the board in 2026 taking on the PR ressort.
 
-More information: <a href="https://soseth.ethz.ch">soseth.ethz.ch</a>
+More information: <a href="https://sos.ethz.ch">sos.ethz.ch</a>
