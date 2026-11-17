@@ -4,7 +4,7 @@ title: The programming languages I can program with
 regenerate: true
 ---
 
-<a href="/about/">&lt;&lt;&lt; Back to about</a>
+{% include aboutBackLink.md %}
 
 Here is a list of all the programming and markup languages I can program with. 
 

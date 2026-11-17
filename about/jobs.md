@@ -4,7 +4,7 @@ title: My (previous) jobs and work experience
 regenerate: true
 ---
 
-<a href="/about/">&lt;&lt;&lt; Back to about</a>
+{% include aboutBackLink.md %}
 
 Here is a list of all my job history. As I am still a student, all of these are part-time jobs.
 {% assign work = site.work | reverse %}

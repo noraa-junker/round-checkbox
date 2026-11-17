@@ -4,7 +4,7 @@ title: My schools and education history
 regenerate: true
 ---
 
-<a href="/about/">&lt;&lt;&lt; Back to about</a>
+{% include aboutBackLink.md %}
 
 Here is a list of all my education history.
 {% assign schools = site.schools | reverse %}

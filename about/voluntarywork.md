@@ -3,7 +3,7 @@ layout: page
 title: My voluntary work
 ---
 
-<a href="/about/">&lt;&lt;&lt; Back to about</a>
+{% include aboutBackLink.md %}
 
 In Switzerland where I come from it is very common to do voluntary work for the community in clubs and non-profit organizations. I personally have two very big commitments:
 

@@ -4,7 +4,7 @@ regenerate: true
 title: Articles mentioning me
 ---
 
-<a href="/about/">&lt;&lt;&lt; Back to about</a>
+{% include aboutBackLink.md %}
 
 Here is a list of articles, videos, etc. about me or my work:
 {% assign mentionings = site.mentionings | sort: 'date' | reverse %}

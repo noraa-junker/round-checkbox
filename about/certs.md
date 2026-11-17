@@ -4,7 +4,7 @@ title: My awards and certifications
 regenerate: true
 ---
 
-<a href="/about/">&lt;&lt;&lt; Back to about</a>
+{% include aboutBackLink.md %}
 
 Here is a list of all awards I received and certifications I gained through the years.
 {% assign certs = site.certs | reverse %}
